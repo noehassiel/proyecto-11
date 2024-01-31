@@ -12,3 +12,11 @@ nav {
     width: 100%;
     background-color: white;
 }
+
+
+.hero {
+    height: 80vh;
+    padding: 16px;
+    background-color: white;
+    margin-top: 40px;
+}
